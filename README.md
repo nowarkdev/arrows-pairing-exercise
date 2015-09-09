@@ -1,10 +1,10 @@
 # NowTV Pairing Exercise App
 
 This is a starter app for the bill-test. It has the following setup ready to use:
-	* Cucumber
-	* Webpack
-	* React
-	* Alt
+* Cucumber
+* Webpack
+* React	
+* Alt
 
 
 It includes a few feature tests to define expected behaviour along with the underlying steps although feel free to change these during the exercise as they make some assumptions about the UI.
