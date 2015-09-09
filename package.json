@@ -1,0 +1,47 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack && webpack-dev-server",
+    "test": "gulp",
+    "build": "./node_modules/webpack/bin/webpack.js --progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "alt": "^0.17.3",
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "babel-core": "^5.8.20",
+    "babel-loader": "^5.3.2",
+    "css-loader": "^0.15.5",
+    "express": "^4.13.3",
+    "extract-text-webpack-plugin": "^0.8.2",
+    "file-loader": "^0.8.4",
+    "font-awesome": "^4.3.0",
+    "font-awesome-webpack": "0.0.3",
+    "gulp": "^3.9.0",
+    "gulp-cli": "^0.3.0",
+    "gulp-shell": "^0.4.3",
+    "image-webpack-loader": "^1.6.1",
+    "junk": "^1.0.2",
+    "react-hot-loader": "^1.2.8",
+    "sass-loader": "^1.0.2",
+    "simulado": "^1.8.1",
+    "style-loader": "^0.12.3",
+    "url-loader": "^0.5.6",
+    "webpack": "^1.10.1",
+    "webpack-dev-server": "^1.10.1"
+  }
+}
